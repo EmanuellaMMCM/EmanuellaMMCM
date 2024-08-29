@@ -1,6 +1,8 @@
-## Hi there 👋
+### boas vindas ao meu perfil 💜
 
-<!--
+meu nome é emanuella 
+
+estou estudando no EE LYGIA 
 **EmanuellaMMCM/EmanuellaMMCM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
